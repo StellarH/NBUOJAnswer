@@ -4,7 +4,7 @@ Use GCC C complier
 ***
 暂时还不太会用GitHub，等搞明白看看能不能把其他人上传代码弄起来
 
-目前有需要可以E-mail联系
+目前有需要可以E-mail: StellarHS@outlook.com
 ***
 那个NBUOJ的Java类是用来生成空的.c文件用的
 
@@ -13,6 +13,8 @@ Use GCC C complier
 生成的空文件文件名符合以下正则表达式
 
 nbuoj[0-9]+\.c
+
+其余细节请阅读源码
 ***
 可以参考代码，但不要CV，系统有代码查重
 
