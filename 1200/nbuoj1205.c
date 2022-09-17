@@ -6,3 +6,4 @@ int main() {
 	
 	printf("%.2lf\n", (x + y)/2*h);
 }
+
