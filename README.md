@@ -1,3 +1,3 @@
-# [NBUOJ](nbuoj.com)Answer
+# [NBUOJ](https://nbuoj.com)Answer
 
 Uses GCC C complier
