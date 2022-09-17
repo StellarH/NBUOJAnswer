@@ -12,7 +12,7 @@ Use GCC C complier
 
 <big>测试千万题，诚信第一题<big/>
 
-<big>学习不规范，成绩两行泪<big\>
+<big>学习不规范，成绩两行泪<big/>
 
 ***
 
