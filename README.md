@@ -1,6 +1,6 @@
 # [NBUOJ](http://nbuoj.com/)Answer
 
-Uses GCC C complier
+Use GCC C complier
 
 可以参考代码，但不要CV，系统有查重
 
