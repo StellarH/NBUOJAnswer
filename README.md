@@ -8,7 +8,7 @@ Use GCC C complier
 
 生成的空文件文件名符合以下正则表达式
 
-nbuoj[0-9]+\.c
+nbuoj[0-9]+\\.c
 
 其余细节请阅读源码
 ***
