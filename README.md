@@ -1,6 +1,6 @@
 # [NBUOJ](http://nbuoj.com/)Answer
 
-GCC C Complier with GNU C99 Standard
+### GCC C Complier with GNU C99 Standard
 
 有些题暂时还没做，做了之后会尽快补上的
 
