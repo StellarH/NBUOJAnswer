@@ -1,6 +1,6 @@
 # [NBUOJ](http://nbuoj.com/)Answer
 
-######se GCC C complier
+##Use GCC C complier
 
 有些题暂时还没做，做了之后会尽快补上的
 
