@@ -12,3 +12,4 @@ int main() {
 	}
 	printf("%.6lf\n", ans);
 }
+
