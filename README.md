@@ -1,6 +1,10 @@
 # [NBUOJ](http://nbuoj.com/)Answer
 
 Use GCC C complier
+
+暂时还不太会用这个GitHub，等搞明白看看能不能把别人上传代码弄起来
+
+目前有需要可以E-mail联系
 ***
 可以参考代码，但不要CV，系统有代码查重
 
