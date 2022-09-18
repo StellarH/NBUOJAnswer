@@ -9,10 +9,11 @@ public class NBUOJ {
 		// TODO Auto-generated method stub
 		Path p = Paths.get(args[0]);
 		int 
-			from = Integer.parseInt(args[1]),
+			i = Integer.parseInt(args[1]),
 			to = Integer.parseInt(args[2]);
-		for(from; from <= to; from++) {
+		while(i <= to) {
 			Files.createFile(p.resolve("nbuoj" + i + ".c"));
+			i++;
 		}
 	}
 }
