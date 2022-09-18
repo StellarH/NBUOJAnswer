@@ -4,7 +4,7 @@ int main() {
 	int x, y, ans = 1;
 	scanf("%d%d", &x, &y);
 	
-	if(x < 0)
+	if(x < 0) 
 		ans++;
 	if(y < 0) {
 		ans++;
