@@ -4,27 +4,18 @@ int main() {
 	int a;
 	scanf("%d", &a);
 	
-	if(a == 1) 
-		puts("One");
-	else if(a == 2) 
-		puts("Two");
-	else if(a == 3) 
-		puts("Three");
-	else if(a == 4) 
-		puts("Four");
-	else if(a == 5) 
-		puts("Five");
-	else if(a == 6) 
-		puts("Six");
-	else if(a == 7) 
-		puts("Seven");
-	else if(a == 8) 
-		puts("Eight");
-	else if(a == 9) 
-		puts("Nine");
-	else if(a == 10) 
-		puts("Ten");
-	else 
-		puts("Error");
+	switch(a) {
+		case 1: puts("One");break;
+		case 2: puts("Two");break;
+		case 3: puts("Three");break;
+		case 4: puts("Four");break;
+		case 5: puts("Five");break;
+		case 6: puts("Six");break;
+		case 7: puts("Seven");break;
+		case 8: puts("Eight");break;
+		case 9: puts("Nine");break;
+		case 10: puts("Ten");break;
+		default: puts("Error");
+	}
 }
 
