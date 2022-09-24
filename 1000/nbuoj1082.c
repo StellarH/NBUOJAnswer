@@ -5,8 +5,8 @@ int main() {
 	double x, y, ans;
 	scanf("%lf%lf", &x, &y);
 	
-	x = fabs(x);
-	y = fabs(y);
+	x = abs(x);
+	y = abs(y);
 	ans = sqrt(pow(x - 2, 2) + pow(y - 2, 2));
 	if(ans <= 0.5) 
 		puts("50");
